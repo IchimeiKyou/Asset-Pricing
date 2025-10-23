@@ -1,5 +1,6 @@
-Project/
-|- code/
+```text
+Project/  
+|- code/  
 |    |- __init__.py
 |    |- utils.py
 |    |- DataPreparation.py
@@ -27,3 +28,5 @@ Project/
     |- MacroData.csv
     |- StockReturn.parquet
     |- FeatureData.csv
+```
+- FeatureData.csv and StockReturn.csv is available via Kaggle Dataset:  
