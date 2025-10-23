@@ -29,4 +29,4 @@ Project/
     |- StockReturn.parquet
     |- FeatureData.csv
 ```
-- The datasets `FeatureData.csv` and `StockReturn.csv` can be downloaded from Kaggle: 
+- The datasets `FeatureData.csv` and `StockReturn.csv` can be downloaded from Kaggle: https://www.kaggle.com/datasets/kyouichimei/dataset-for-asset-pricing
