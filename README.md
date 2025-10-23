@@ -29,4 +29,4 @@ Project/
     |- StockReturn.parquet
     |- FeatureData.csv
 ```
-- FeatureData.csv and StockReturn.csv is available via Kaggle Dataset:  
+- The datasets `FeatureData.csv` and `StockReturn.csv` can be downloaded from Kaggle: 
